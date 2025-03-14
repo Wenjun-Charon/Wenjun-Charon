@@ -12,7 +12,7 @@
 
 ## 🌱 What I’m Learning  
 🔹 Advanced **ML & AI for predictive modeling**  
-🔹 **Web scraping & automation** (because manual work is overrated) 
+🔹 **Web scraping & automation** (because manual work is overrated)  
 🔹 **Power BI & Tableau** to make dashboards less boring   
 
 ## 💡 Let's Collaborate If...  
