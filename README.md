@@ -3,17 +3,22 @@
 ## 🚀 Who Am I?  
 🎓 Data geek with a creative twist – currently an **MSBA candidate at UC Davis**  
 🛍 Obsessed with **fashion analytics & consumer behavior modeling**  
-📊 Turning raw data into **engaging stories & strategic insights**  
+📊 Passionate about **predictive analytics, automation, and AI-driven decision-making**
 
 ## 🧠 What I Do  
-🔍 **Decode consumer behavior** using **SQL, Python & NLP**  
-📈 **Predict fashion trends** through **data-driven market analysis**  
-🎨 **Blend data science & creativity** to optimize digital marketing  
+🔍 **Optimize decision-making** using **SQL, Python & ML**  
+📈 **Predict customer behavior** through **churn analysis & sentiment modeling**  
+🤖 **Automate workflows** with **web scraping & NLP** to enhance efficiency  
 
 ## 🌱 What I’m Learning  
-🔹 Advanced **ML & AI for predictive modeling**  
-🔹 **Web scraping & automation** (because manual work is overrated)  
-🔹 **Power BI & Tableau** to make dashboards less boring   
+🔹 **Machine learning for predictive analytics** (telecom churn, consumer behavior)  
+🔹 **Web scraping & automation** (AFW’s address retrieval project)  
+🔹 **Building AI-driven recommendations** (Pawfect Planner: pet-friendly location finder)     
+
+## 🏗️ Featured Projects  
+📍 **Pawfect Planner** – Built a recommendation system for pet-friendly locations using **Google Places API & Open Weather API & Yelp API**  
+🚀 **Angel Flight West** – Automated address retrieval & validation using **Custom Search & web scraping**  
+📊 **Machine Learning Telecom Churn** – Applied **predictive modeling** to analyze customer churn patterns  
 
 ## 💡 Let's Collaborate If...  
 🤝 You’re building something **cool in fashion-tech, retail analytics, or digital marketing**  
